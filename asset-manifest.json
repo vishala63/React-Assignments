@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/React-Assignments/static/css/main.31d6cfe0.css",
+    "main.js": "/React-Assignments/static/js/main.cd4d7216.js",
+    "index.html": "/React-Assignments/index.html",
+    "main.cd4d7216.js.map": "/React-Assignments/static/js/main.cd4d7216.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.cd4d7216.js"
+  ]
+}
